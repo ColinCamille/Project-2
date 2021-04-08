@@ -1,0 +1,11 @@
+﻿Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Unit,Value,Flag,Flag Description
+"GT","Agriculture Total","5000","World","7231","Emissions (CO2eq)","5066","Burning - Crop residues","gigagrams","30824.13","A","Aggregate, may include official, semi-official, estimated or calculated data"
+"GT","Agriculture Total","5000","World","7231","Emissions (CO2eq)","5067","Burning - Savanna","gigagrams","245901.26","A","Aggregate, may include official, semi-official, estimated or calculated data"
+"GT","Agriculture Total","5000","World","7231","Emissions (CO2eq)","5064","Crop Residues","gigagrams","225168.61","A","Aggregate, may include official, semi-official, estimated or calculated data"
+"GT","Agriculture Total","5000","World","7231","Emissions (CO2eq)","6759","Cultivation of Organic Soils","gigagrams","128553.74","A","Aggregate, may include official, semi-official, estimated or calculated data"
+"GT","Agriculture Total","5000","World","7231","Emissions (CO2eq)","5058","Enteric Fermentation","gigagrams","2084763.58","A","Aggregate, may include official, semi-official, estimated or calculated data"
+"GT","Agriculture Total","5000","World","7231","Emissions (CO2eq)","5062","Manure applied to Soils","gigagrams","189219.32","A","Aggregate, may include official, semi-official, estimated or calculated data"
+"GT","Agriculture Total","5000","World","7231","Emissions (CO2eq)","5063","Manure left on Pasture","gigagrams","864127.04","A","Aggregate, may include official, semi-official, estimated or calculated data"
+"GT","Agriculture Total","5000","World","7231","Emissions (CO2eq)","5059","Manure Management","gigagrams","345204.52","A","Aggregate, may include official, semi-official, estimated or calculated data"
+"GT","Agriculture Total","5000","World","7231","Emissions (CO2eq)","5060","Rice Cultivation","gigagrams","529401.24","A","Aggregate, may include official, semi-official, estimated or calculated data"
+"GT","Agriculture Total","5000","World","7231","Emissions (CO2eq)","5061","Synthetic Fertilizers","gigagrams","709399.13","A","Aggregate, may include official, semi-official, estimated or calculated data"
