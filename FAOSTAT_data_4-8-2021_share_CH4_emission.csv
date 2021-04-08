@@ -1,0 +1,8 @@
+﻿Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
+"EM","Emissions shares","5000","World","7265","Share of total CH4 emissions","1711","Agriculture total","2017","2017","%","38.6235","A","Aggregate, may include official, semi-official, estimated or calculated data"
+"EM","Emissions shares","5000","World","7265","Share of total CH4 emissions","6822","Agricultural land use","2017","2017","%","4.0744","A","Aggregate, may include official, semi-official, estimated or calculated data"
+"EM","Emissions shares","5000","World","7265","Share of total CH4 emissions","6821","Energy","2017","2017","%","37.6785","A","Aggregate, may include official, semi-official, estimated or calculated data"
+"EM","Emissions shares","5000","World","7265","Share of total CH4 emissions","6817","Industrial processes and product use","2017","2017","%","0.1335","A","Aggregate, may include official, semi-official, estimated or calculated data"
+"EM","Emissions shares","5000","World","7265","Share of total CH4 emissions","6818","Waste","2017","2017","%","19.4698","A","Aggregate, may include official, semi-official, estimated or calculated data"
+"EM","Emissions shares","5000","World","7265","Share of total CH4 emissions","6820","International Bunkers","2017","2017","%","0.0203","A","Aggregate, may include official, semi-official, estimated or calculated data"
+"EM","Emissions shares","5000","World","7265","Share of total CH4 emissions","6819","Other n.e.c.","2017","2017","%","0","A","Aggregate, may include official, semi-official, estimated or calculated data"
